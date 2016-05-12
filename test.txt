@@ -1,2 +1,3 @@
 <?php phpinfo();?>
 <?php echo "I love you!" ?>
+<?php print_r(array('a'=>'b'));?>
